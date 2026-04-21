@@ -1,0 +1,5 @@
+python-telegram-bot
+# قد تحتاج إلى إضافة مكتبات الذكاء الاصطناعي التي تستخدمها هنا، مثل:
+# openai
+# google-generativeai
+# Pillow (إذا كنت تتعامل مع الصور)
